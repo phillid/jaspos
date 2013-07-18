@@ -1,7 +1,5 @@
 Jaspos To Do
 ============
 1) Get bootloader code onto github
-2) More comments in more code
-3) Clean-up functions which still use my old convention of passing arguments in AX. These must be converted to accepting arguments from the stack.
-4) Get Disk I/O working (at least floppy disk)
-5) Continue work on the shell application
+2) Still More comments in more code
+3) Get Disk I/O working (at least floppy disk)
